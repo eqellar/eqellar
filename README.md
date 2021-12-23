@@ -29,7 +29,7 @@
 ### - Basic knowledge of languages and tools...
 
 <p align="center">
- <img src="https://github.com/eqellar/imagenes/blob/master/Imagenes/src/imagen/css3.png">
+ <img src="https://github.com/eqellar/imagenes/blob/master/Imagenes/src/imagen/css3_1.png">
   <img src="https://github.com/eqellar/imagenes/blob/master/Imagenes/src/imagen/html5.png">
   <img src="https://github.com/eqellar/imagenes/blob/master/Imagenes/src/imagen/js.png">
   <img src="https://github.com/eqellar/imagenes/blob/master/Imagenes/src/imagen/mysql.png">
