@@ -7,7 +7,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-<p><em>I studied computer systems engineering at <a href="http://www.itssmt.edu.mx/">Tecnológico Nacional de México campu San Mastín Tex. Pue.</a>
+<p><em>I studied computer systems engineering at <a href="http://www.itssmt.edu.mx/">Tecnológico Nacional de México campus San Mastín Tex. Pue.</a>
   
 <br />
 
